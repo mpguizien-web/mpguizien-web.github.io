@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["Q638U3BJRX.com.mguizien.ratatata"],
+        "components": [{ "/": "/ratatata/banque*" }]
+      }
+    ]
+  }
+}
